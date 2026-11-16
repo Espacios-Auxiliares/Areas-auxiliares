@@ -14,11 +14,11 @@ README.md
 <table border="0" cellspacing="0" cellpadding="14">
   <tr>
     <td align="center" bgcolor="#0B0F19">
-      <h2 style="color: #F28C28; margin: 0; font-size: 28px;">1.400.000+</h2>
+      <h2 style="color: #F28C28; margin: 0; font-size: 28px;">1.500.000+</h2>
       <sub>VEHICLES / DAY</sub>
     </td>
     <td align="center" bgcolor="#0B0F19">
-      <h2 style="color: #6BBB5E; margin: 0; font-size: 28px;">14</h2>
+      <h2 style="color: #6BBB5E; margin: 0; font-size: 28px;">30+</h2>
       <sub>STRATEGIC NODES</sub>
     </td>
     <td align="center" bgcolor="#0B0F19">
@@ -38,7 +38,7 @@ README.md
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://tu-usuario.github.io/tu-repo/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://negocios-auxiliares.github.io/Portfolio/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
@@ -61,9 +61,9 @@ The purpose of this portfolio is informational and educational. It does not cons
 
 | Metric | Value | Scope |
 |:---|:---:|:---|
-| 🚗 Daily vehicle volume | **1.400.000+** | Combined network |
+| 🚗 Daily vehicle volume | **1.500.000+** | Combined network |
 | 🛣️ Strategic corridors | **3** | Access North · General Paz · West Access |
-| 📍 Strategic nodes | **14** | Distributed across the AMBA |
+| 📍 Strategic nodes | **30+** | Distributed across the AMBA |
 | 🌐 Coverage | **AMBA** | Northern + Western + City of Buenos Aires |
 
 ### Strategic Corridors
@@ -236,6 +236,11 @@ For professional discussions related to infrastructure, mobility, logistics, tel
 
 ---
 
+<div align="center">
+
+<sub>© Metropolitan Mobility Infrastructure Portfolio · AMBA · Argentina</sub>
+
+</div>
 <div align="center">
 
 <sub>© Metropolitan Mobility Infrastructure Portfolio · AMBA · Argentina</sub>
