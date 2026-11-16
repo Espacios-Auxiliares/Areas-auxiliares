@@ -5,7 +5,7 @@ README.md
 
 # INFRASTRUCTURE & MOBILITY ASSETS
 
-**Metropolitan Mobility Infrastructure Portfolio · AMBA**
+**Metropolitan Mobility Infrastructure Areas · AMBA**
 
 <img src="brands.png" alt="Autopistas del Sol · Autopistas del Oeste" width="380" />
 
@@ -238,6 +238,6 @@ For professional discussions related to infrastructure, mobility, logistics, tel
 
 <div align="center">
 
-<sub>© Metropolitan Mobility Infrastructure Portfolio · AMBA · Argentina</sub>
+<sub>© Metropolitan Mobility Infrastructure Areas · AMBA · Argentina</sub>
 
 </div>
