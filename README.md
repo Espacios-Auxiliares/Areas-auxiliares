@@ -187,7 +187,7 @@ The public interactive map can be accessed through the embedded visualization av
 
 ---
 
-## Portfolio Philosophy
+## Area Philosophy
 
 Modern transportation corridors are evolving beyond traditional roadway infrastructure.
 
