@@ -1,3 +1,6 @@
+
+Markdown
+README.md
 <div align="center">
 
 # ESPACIOS AUXILIARES
@@ -35,7 +38,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/SITIO_LIVE-negocios--auxiliares.github.io-121013?style=for-the-badge&logo=github&logoColor=white)](https://negocios-auxiliares.github.io/Portfolio/)
+[![Live Demo](https://img.shields.io/badge/SITIO_LIVE-negocios--auxiliares.github.io-121013?style=for-the-badge&logo=github&logoColor=white)](https://negocios-auxiliares.github.io/areas-auxiliares/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
@@ -226,54 +229,6 @@ Ubicaciones con potencial para el desarrollo de servicios de apoyo a la movilida
 | 04 | **Infraestructura y Servicios** | 4 capacidades (Movilidad · Logística · Conectividad · Servicios al Usuario) |
 | 05 | **Visión** | Ecosistemas integrados de movilidad |
 | — | **Footer** | Tagline + contacto |
-
----
-
-## Deploy en GitHub Pages
-
-El sitio está publicado en:
-
-> **https://negocios-auxiliares.github.io/Portfolio/**
-
-Para actualizar:
-
-1. Reemplazar `index.html`, `brands.png` y `.nojekyll` en la raíz del repo
-2. `git add . && git commit -m "update" && git push`
-3. GitHub Pages se redeploya automáticamente en 1-2 minutos
-
----
-
-## Personalización
-
-### Cambiar la imagen de fondo del hero
-
-En `index.html`, buscar `.hero-photo` (alrededor de la línea 152) y reemplazar la URL:
-
-```css
-.hero-photo {
-  background-image: url('https://mendiorozdesign.com/images/portfolio/ausol/c_00.jpg');
-  /* filter: brightness(0.30) saturate(0.55) contrast(1.05); */
-}
-```
-
-### Cambiar el mapa embebido
-
-Buscar el `<iframe>` dentro de `#network-map` y `#nodes-map`, y reemplazar el `data-src`:
-
-```html
-<iframe
-  src=""
-  data-src="https://www.google.com/maps/d/embed?mid=1yISwUurIfM0oXgLIlyINMmL1xYauzXg&usp=sharing"
-  ...></iframe>
-```
-
-### Cambiar los logos
-
-Reemplazar `brands.png` por tu propia versión (PNG con transparencia). Si tu imagen tiene fondo blanco, ejecutá:
-
-```bash
-python3 scripts/make_logo_transparent.py
-```
 
 ---
 
