@@ -1,11 +1,8 @@
-
-Markdown
-README.md
 <div align="center">
 
-# INFRASTRUCTURE & MOBILITY ASSETS
+# ESPACIOS AUXILIARES
 
-**Metropolitan Mobility Infrastructure Areas · AMBA**
+**Infraestructura · Movilidad · Conectividad · Servicios Metropolitanos**
 
 <img src="brands.png" alt="Autopistas del Sol · Autopistas del Oeste" width="380" />
 
@@ -15,30 +12,30 @@ README.md
   <tr>
     <td align="center" bgcolor="#0B0F19">
       <h2 style="color: #F28C28; margin: 0; font-size: 28px;">1.500.000+</h2>
-      <sub>VEHICLES / DAY</sub>
+      <sub>VEHÍCULOS DIARIOS</sub>
     </td>
     <td align="center" bgcolor="#0B0F19">
       <h2 style="color: #6BBB5E; margin: 0; font-size: 28px;">30+</h2>
-      <sub>STRATEGIC NODES</sub>
+      <sub>NODOS ESTRATÉGICOS</sub>
     </td>
     <td align="center" bgcolor="#0B0F19">
       <h2 style="color: #3498DB; margin: 0; font-size: 28px;">3</h2>
-      <sub>METROPOLITAN CORRIDORS</sub>
+      <sub>CORREDORES METROPOLITANOS</sub>
     </td>
     <td align="center" bgcolor="#0B0F19">
       <h2 style="color: #E5E7EB; margin: 0; font-size: 28px;">AMBA</h2>
-      <sub>COVERAGE</sub>
+      <sub>COBERTURA</sub>
     </td>
   </tr>
 </table>
 
 <br/>
 
-🟠 Access North Corridor &nbsp;·&nbsp; 🟢 General Paz Ring Road &nbsp;·&nbsp; 🔵 West Access Corridor
+🟠 Corredor Norte &nbsp;·&nbsp; 🟢 General Paz &nbsp;·&nbsp; 🔵 Corredor Oeste
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://negocios-auxiliares.github.io/Portfolio/)
+[![Live Demo](https://img.shields.io/badge/SITIO_LIVE-negocios--auxiliares.github.io-121013?style=for-the-badge&logo=github&logoColor=white)](https://negocios-auxiliares.github.io/Portfolio/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
@@ -47,123 +44,66 @@ README.md
 
 ---
 
-## Overview
+## Visión general
 
-This repository presents a public overview of metropolitan mobility infrastructure assets, traffic corridors and strategic locations associated with major transportation networks in the **Buenos Aires Metropolitan Area (AMBA)**.
+Este repositorio presenta una visión pública de **infraestructura metropolitana de movilidad** — corredores estratégicos, nodos y capacidades de plataforma asociadas a las principales redes de transporte del Área Metropolitana de Buenos Aires (AMBA).
 
-The purpose of this portfolio is informational and educational. It does not constitute a commercial offer, solicitation, tender process, investment proposal or contractual commitment.
+> **Una red metropolitana al servicio de la movilidad** — articulando infraestructura, servicios y conectividad sobre los corredores estratégicos del AMBA.
 
 ---
 
-## Network Scale
+## La Red
 
-### Metropolitan Exposure
+Los principales corredores metropolitanos concentran más de **1,5 millones de desplazamientos diarios** y conectan áreas urbanas, industriales, logísticas y comerciales de relevancia regional.
 
-| Metric | Value | Scope |
+| Corredor | Color | Cobertura |
 |:---|:---:|:---|
-| 🚗 Daily vehicle volume | **1.500.000+** | Combined network |
-| 🛣️ Strategic corridors | **3** | Access North · General Paz · West Access |
-| 📍 Strategic nodes | **30+** | Distributed across the AMBA |
-| 🌐 Coverage | **AMBA** | Northern + Western + City of Buenos Aires |
-
-### Strategic Corridors
-
-| Corridor | Color | Coverage Area |
-|:---|:---:|:---|
-| **Access North Corridor** | 🟠 | Northern Metropolitan Area — Panamericana / AUSOL |
-| **General Paz Ring Road** | 🟢 | Buenos Aires City ring — General Paz |
-| **West Access Corridor** | 🔵 | Western Metropolitan Area — Acceso Oeste / GCO |
-
-### Coverage
-
-- **Northern Metropolitan Area** — Campana, Pilar, Tigre, Escobar
-- **Western Metropolitan Area** — Ituzaingó, Luján, Moreno, Merlo
-- **City of Buenos Aires** — General Paz ring road
-- **Regional logistics and mobility nodes** — cross-metropolitan flow articulation
+| **Corredor Norte** | 🟠 | Panamericana / Acceso Norte — AUSOL |
+| **General Paz** | 🟢 | Anillo metropolitano de la Ciudad de Buenos Aires |
+| **Corredor Oeste** | 🔵 | Acceso Oeste — GCO |
 
 ---
 
-## Strategic Nodes
+## Escala Metropolitana
 
-The portfolio includes a network of high-traffic locations distributed across metropolitan mobility corridors.
-
-### 🟠 Access North Corridor
-
-| Node | Corridor Position |
-|:---|:---|
-| **Campana** | Northern gateway |
-| **Pilar** | Northern metropolitan hub |
-| **Tigre** | Delta access junction |
-| **Buen Ayre** | Connector node |
-| **Route 197** | Cross-route intersection |
-| **Route 202** | Cross-route intersection |
-
-### 🟢 General Paz Corridor
-
-| Node | Function |
-|:---|:---|
-| **Mil Aires** | Ring road access |
-| **Provincias Unidas** | Ring road access |
-| **Tonelero** | Ring road access |
-
-### 🔵 West Access Corridor
-
-| Node | Corridor Position |
-|:---|:---|
-| **Ituzaingó** | Western metropolitan hub |
-| **Luján** | Western gateway |
-| **Vergara** | Connector node |
-| **Barcala** | Connector node |
-| **Buen Ayre** | Cross-corridor intersection |
-
----
-
-## Metropolitan Mobility Platform
-
-The infrastructure represented in this repository is relevant to a broad range of use cases, including:
+Alcance territorial y capacidades de la red a escala metropolitana, articulando cobertura geográfica y servicios integrados.
 
 <table>
   <tr>
     <td width="50%" valign="top">
+### 🌐 Cobertura territorial
 
-### 🚗 Mobility Services
+### Cobertura territorial
+| Área | Corredor |
+|:---|:---|
+| 🟠 **Norte Metropolitano** | Corredor Norte |
+| 🔵 **Oeste Metropolitano** | Corredor Oeste |
+| 🟢 **Ciudad de Buenos Aires** | General Paz |
+| 🌐 **Conexiones regionales** | Cross-metropolitanas |
 
-- User services
-- Parking solutions
-- Pickup & Drop-off networks
-- Smart mobility initiatives
-
-    </td>
-    <td width="50%" valign="top">
-
-### 📦 Logistics & Distribution
-
-- Last-mile operations
-- Urban logistics
-- Distribution support services
-- Regional connectivity
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📡 Telecommunications
-
-- Rights-of-way
-- Fiber infrastructure
-- Connectivity corridors
-- Telecommunications support infrastructure
+- 🟠 Norte Metropolitano
+- 🔵 Oeste Metropolitano
+- 🟢 Ciudad de Buenos Aires
+- 🌐 Conexiones regionales
+### 🎯 Alcance
 
     </td>
     <td width="50%" valign="top">
+| Capacidad | Función |
+|:---|:---|
+| 🚗 **Movilidad** | Servicios al usuario y circulación metropolitana |
+| 🛎️ **Servicios al usuario** | Atención y convenience sobre corredores |
+| 📦 **Logística** | Distribución y última milla |
+| 📡 **Conectividad** | Telecomunicaciones y servicios digitales |
+| 🏗️ **Infraestructura complementaria** | Activos de apoyo a la red |
 
-### ☕ Commercial Services
+### Alcance
 
-- Service areas
-- Convenience retail
-- Food & beverage
-- User-oriented services
+- 🚗 Movilidad
+- 🛎️ Servicios al usuario
+- 📦 Logística
+- 📡 Conectividad
+- 🏗️ Infraestructura complementaria
 
     </td>
   </tr>
@@ -171,66 +111,202 @@ The infrastructure represented in this repository is relevant to a broad range o
 
 ---
 
-## Interactive Map
+## Nodos Estratégicos
 
-The public interactive map can be accessed through the embedded visualization available in this repository.
+**30+ ubicaciones identificadas** sobre corredores metropolitanos.
+
+### 🟠 Corredor Norte
+
+> Campana · Pilar · Tigre · Buen Ayre · Ruta 197 · Ruta 202
+
+### 🟢 General Paz
+
+> Constituyentes · Mil Aires · Provincias Unidas
+
+### 🔵 Corredor Oeste
+
+> Ituzaingó · Luján · Vergara · Barcala · Buen Ayre
+
+### Mapa interactivo
+
+El sitio incluye un mapa público interactivo con la ubicación de nodos y corredores, accesible en la sección **Nodos Estratégicos**.
 
 **Features:**
 
-- 🗺️ Metropolitan coverage map
-- 📍 Strategic node locations
-- 🛣️ Corridor visualization (color-coded by operator)
-- 📊 Traffic reference data
-- 🌙 Dark theme for institutional presentation
-
-> The map uses a click-to-activate pattern to prevent scroll hijacking on iOS Safari. Tapping the overlay loads the live Google My Maps embed; tapping _Liberar scroll_ unloads it.
+- 🗺️ Cobertura metropolitana
+- 📍 Ubicación de nodos estratégicos
+- 🛣️ Corredores visualizados (color-coded por operador)
+- 🌙 Dark theme institucional
+- 📱 Toggle click-to-activate para prevenir scroll hijack en iOS Safari
 
 ---
 
-## Area Philosophy
+## Infraestructura y Servicios
 
-Modern transportation corridors are evolving beyond traditional roadway infrastructure.
+Capacidades de plataforma articuladas sobre la red metropolitana.
 
-Infrastructure assets increasingly support:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+| Capacidad | Descripción |
+|:---|:---|
+| 🚗 **Movilidad** | Infraestructura orientada a la conectividad y circulación metropolitana. |
+| 📦 **Logística** | Nodos vinculados a distribución, última milla y servicios asociados. |
+| 📡 **Conectividad** | Corredores con infraestructura estratégica para telecomunicaciones y servicios digitales. |
+| ☕ **Servicios al Usuario** | Ubicaciones con potencial para el desarrollo de servicios de apoyo a la movilidad. |
 
-- **Mobility ecosystems** — beyond asphalt, towards integrated user experiences
-- **User services** — service areas, convenience, F&B
-- **Telecommunications** — fiber corridors and rights-of-way
-- **Logistics networks** — last-mile and urban distribution
-- **Digital connectivity** — telemetry, sensors, smart infrastructure
+### 🚗 Movilidad
 
-Understanding the scale, coverage and accessibility of these assets is essential for future infrastructure planning.
+Infraestructura orientada a la conectividad y circulación metropolitana.
+
+    </td>
+    <td width="50%" valign="top">
+
+### 📦 Logística
+
+Nodos vinculados a distribución, última milla y servicios asociados.
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📡 Conectividad
+
+Corredores con infraestructura estratégica para telecomunicaciones y servicios digitales.
+
+    </td>
+    <td width="50%" valign="top">
+
+### ☕ Servicios al Usuario
+
+Ubicaciones con potencial para el desarrollo de servicios de apoyo a la movilidad.
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Disclaimer
+## Visión
 
-> ⚠️ **Informational use only**
->
-> This repository contains only public, conceptual and informational material.
->
-> No confidential, contractual, commercial, regulatory or strategically sensitive information is disclosed.
->
-> The content should not be interpreted as:
->
-> - a commercial proposal;
-> - an invitation to invest;
-> - a public tender;
-> - a request for proposals;
-> - or a representation of any company, authority or concession policy.
->
-> The views expressed are solely intended to illustrate infrastructure and mobility concepts.
+> La infraestructura vial moderna evoluciona hacia **ecosistemas integrados** de movilidad, logística, conectividad y servicios, generando nuevas capacidades para usuarios, operadores y comunidades.
 
 ---
 
-## Contact
+## Stack técnico
 
-For professional discussions related to infrastructure, mobility, logistics, telecommunications and associated ecosystems, please connect via LinkedIn.
+- **HTML + CSS + Vanilla JS** — un solo archivo, sin build step, sin dependencias npm
+- **Google Fonts** (Inter + Space Grotesk) vía CDN
+- **SVG inline** para iconos, líneas de corredores animadas (flow + glow) y preview del mapa
+- **Google My Maps** embebido con toggle click-to-activate (iOS Safari-safe)
+- **`mix-blend-mode`** y filter CSS para integrar el logo y la imagen de fondo al dark theme
+- Compatible con **GitHub Pages** (estático, sin backend)
+
+---
+
+## Estructura del repo
+
+```
+.
+├── index.html          # Sitio completo (hero + 5 secciones + footer)
+├── brands.png          # Logos AUSOL · GCO con fondo transparente
+├── .nojekyll           # Desactiva Jekyll en GitHub Pages
+└── README.md           # Este archivo
+```
+
+## Secciones del sitio
+
+| # | Sección | Contenido |
+|:---:|:---|:---|
+| — | **Hero** | Imagen AMBA de fondo + 4 KPIs (1.500.000+ / 30+ / 3 / AMBA) |
+| 01 | **La Red** | Mapa interactivo + 3 corredores coloreados |
+| 02 | **Escala Metropolitana** | Cobertura territorial + Alcance |
+| 03 | **Nodos Estratégicos** | 30+ nodos agrupados por corredor + mapa |
+| 04 | **Infraestructura y Servicios** | 4 capacidades (Movilidad · Logística · Conectividad · Servicios al Usuario) |
+| 05 | **Visión** | Ecosistemas integrados de movilidad |
+| — | **Footer** | Tagline + contacto |
+
+---
+
+## Deploy en GitHub Pages
+
+El sitio está publicado en:
+
+> **https://negocios-auxiliares.github.io/Portfolio/**
+
+Para actualizar:
+
+1. Reemplazar `index.html`, `brands.png` y `.nojekyll` en la raíz del repo
+2. `git add . && git commit -m "update" && git push`
+3. GitHub Pages se redeploya automáticamente en 1-2 minutos
+
+---
+
+## Personalización
+
+### Cambiar la imagen de fondo del hero
+
+En `index.html`, buscar `.hero-photo` (alrededor de la línea 152) y reemplazar la URL:
+
+```css
+.hero-photo {
+  background-image: url('https://mendiorozdesign.com/images/portfolio/ausol/c_00.jpg');
+  /* filter: brightness(0.30) saturate(0.55) contrast(1.05); */
+}
+```
+
+### Cambiar el mapa embebido
+
+Buscar el `<iframe>` dentro de `#network-map` y `#nodes-map`, y reemplazar el `data-src`:
+
+```html
+<iframe
+  src=""
+  data-src="https://www.google.com/maps/d/embed?mid=1yISwUurIfM0oXgLIlyINMmL1xYauzXg&usp=sharing"
+  ...></iframe>
+```
+
+### Cambiar los logos
+
+Reemplazar `brands.png` por tu propia versión (PNG con transparencia). Si tu imagen tiene fondo blanco, ejecutá:
+
+```bash
+python3 scripts/make_logo_transparent.py
+```
+
+---
+
+## Notas técnicas
+
+### iOS Safari — fix de scroll hijack
+
+iOS Safari tiene un bug histórico donde los `<iframe>` con `pointer-events: none` igual capturan el scroll del dedo. La solución implementada:
+
+- El iframe arranca con `src=""` y `display: none` (no está cargado)
+- Se muestra un **SVG estático** estilizado del mapa como preview
+- Al tocar "Click para interactuar con el mapa", JS carga el `src` real
+- Al tocar "Liberar scroll" (o tecla Escape), JS setea `src=""` otra vez → el iframe se descarga completamente
+
+### `100dvh` en el hero
+
+El hero usa `min-height: 100vh; min-height: 100dvh;` para que iOS Safari maneje bien la barra dinámica.
+
+### `prefers-reduced-motion`
+
+Toda animación respeta `prefers-reduced-motion: reduce` (accesibilidad).
+
+---
+
+## Contacto
+
+Para conversaciones profesionales relacionadas con infraestructura, movilidad, logística, conectividad y ecosistemas asociados:
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Angel_Cabrera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-angel-cabrera-)
 [![Email](https://img.shields.io/badge/Email-dcabrera@ausol.com.ar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcabrera@ausol.com.ar)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+54_9_11_3246_4964-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491132464964)
 
 </div>
 
@@ -238,6 +314,8 @@ For professional discussions related to infrastructure, mobility, logistics, tel
 
 <div align="center">
 
-<sub>© Metropolitan Mobility Infrastructure Areas · AMBA · Argentina</sub>
+**Infraestructura · Movilidad · Conectividad · Servicios**
+
+<sub>© Espacios Auxiliares · AMBA · Argentina</sub>
 
 </div>
