@@ -35,7 +35,7 @@
 
 <br/>
 
-[![Sitio live](https://img.shields.io/badge/SITIO_LIVE-espacios--auxiliares.github.io-121013?style=for-the-badge&logo=github&logoColor=white)](https://espacios-auxiliares.github.io/areas-auxiliares/)
+[![Sitio live](https://img.shields.io/badge/SITIO_LIVE-espacios--auxiliares.github.io-121013?style=for-the-badge&logo=github&logoColor=white)](https://espacios-auxiliares.github.io/Areas-auxiliares/)
 
 </div>
 
